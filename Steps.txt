@@ -1,0 +1,19 @@
+After installing git for the first time you have to tell git who you are  beore you can commit
+
+1) git config --global user.name "MyName"
+2) git config --global user.email "MyEmailId@gmail.com"
+
+Now we can start actually executing the commands
+3) git clone
+4) git status
+     a)untracked
+     b)changed
+     c)staged to commit
+     d)unchanged
+
+5) git add <file-name>
+6) git commit -m "MESSAGE" #MAKE sure the message is meaningfull
+7) Make some changes in the repo and do it
+
+
+
