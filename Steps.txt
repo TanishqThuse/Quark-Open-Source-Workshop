@@ -1,5 +1,5 @@
 Some basics linux commads -> helpful for git bash
-Linux commands for git like cd, ls, mkdir, pwd, Readme syntax
+Linux commands for git like cd, ls, mkdir, pwd, Readme syntax, touch, mkdir , man
 
 After installing git for the first time you have to tell git who you are  beore you can commit
 
