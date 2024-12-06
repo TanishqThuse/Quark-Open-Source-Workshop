@@ -23,7 +23,9 @@ Now we can start actually executing the commands
 gitignore,
 gitkeep -> place inside an empty directory
 
-10)Git restore and reset, hard
+10)Git restore -> new changes made will be gone forever and previous commit stage be restored
+and reset ->
+, hard
 
 11)Git stash
 
@@ -36,6 +38,16 @@ Merge Requests
    --show two brnaches on github
    --merge
 
-13) Verified commits on github
+13) Verifiedi commits on github
 
-14) Checkout Imp_points file
+15) Steps to get a certificate :
+    1) Create a fork of the TeamQuark Open Source Workshop repo
+    2) *Create a new branch* -> give name as YOUR_NAME
+    3) Make changes in the newly created branch (after forking)
+    4) make changes in readme -> git add README.md
+    5) git commit -m "Adding my name""
+    6) Make a *verified commit*
+    7)  go to quark's repo and
+        --create a pull request
+
+Checkout Imp_points file
