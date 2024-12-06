@@ -19,7 +19,9 @@ Now we can start actually executing the commands
 7) Make some changes in the repo and do it
 8) git push origin main
 
-9)git log, gitignore, gitkeep
+9)git log,
+gitignore,
+gitkeep -> place inside an empty directory
 
 10)Git restore and reset, hard
 
