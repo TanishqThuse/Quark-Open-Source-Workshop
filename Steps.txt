@@ -3,6 +3,9 @@ Linux commands for git like cd, ls, mkdir, pwd, Readme syntax, touch, mkdir , ma
 
 After installing git for the first time you have to tell git who you are  beore you can commit
 
+
+    #Task - 1
+
 1) git config --global user.name "MyName"
 2) git config --global user.email "MyEmailId@gmail.com"
 
@@ -14,18 +17,26 @@ Now we can start actually executing the commands
      c)staged to commit
      d)unchanged
 
+    #Task - 2
+
 5) git add <file-name>
 6) git commit -m "MESSAGE" #MAKE sure the message is meaningfull
 7) Make some changes in the repo and do it
 8) git push origin main
 
+    #Task - 3
+
 9)git log,
 gitignore,
 gitkeep -> place inside an empty directory
 
+    #Task - 4
+
 10)Git restore -> new changes made will be gone forever and previous commit stage be restored
 and reset ->
 , hard
+
+    #Task - 5
 
 11)Git stash
 
@@ -51,3 +62,7 @@ Merge Requests
         --create a pull request
 
 Checkout Imp_points file
+1) Github Student Developer Pack
+2) How to configure a README.md file
+3) How to host via github
+

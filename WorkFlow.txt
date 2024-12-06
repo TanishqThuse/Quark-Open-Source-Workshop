@@ -4,6 +4,9 @@ Introduction
 The presentation
 Go till the last slide uptil devOps
 After that start with the Steps.txt file for demonstration
+    --First start with linux commands
+    --then create a repo
+    --follow all steps in steps.txt
 After that do the entire demonstration
 Go to Imp_points.txt after this
 Return to ppt to talk about some devops stuff
