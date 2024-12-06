@@ -1,0 +1,8 @@
+Workflow of the workshop :
+
+Introduction
+The presentation
+Go till the last slide uptil devOps
+After that start with the Steos.txt file for demonstration
+
+
