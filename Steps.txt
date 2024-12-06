@@ -1,3 +1,6 @@
+Some basics linux commads -> helpful for git bash
+Linux commands for git like cd, ls, mkdir, pwd, Readme syntax
+
 After installing git for the first time you have to tell git who you are  beore you can commit
 
 1) git config --global user.name "MyName"
@@ -14,6 +17,23 @@ Now we can start actually executing the commands
 5) git add <file-name>
 6) git commit -m "MESSAGE" #MAKE sure the message is meaningfull
 7) Make some changes in the repo and do it
+8) git push origin main
 
+9)git log, gitignore, gitkeep
 
+10)Git restore and reset, hard
 
+11)Git stash
+
+12)Branches, master, main, head, checkout
+Merging branch to main/master
+Merge Requests
+
+   --Create a new branch
+   --make changes
+   --show two brnaches on github
+   --merge
+
+13) Verified commits on github
+
+14) Checkout Imp_points file
