@@ -3,6 +3,8 @@ Workflow of the workshop :
 Introduction
 The presentation
 Go till the last slide uptil devOps
-After that start with the Steos.txt file for demonstration
-
+After that start with the Steps.txt file for demonstration
+After that do the entire demonstration
+Go to Imp_points.txt after this
+Return to ppt to talk about some devops stuff
 
