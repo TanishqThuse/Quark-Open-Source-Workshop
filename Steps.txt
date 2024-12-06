@@ -38,7 +38,7 @@ Merge Requests
    --show two brnaches on github
    --merge
 
-13) Verifiedi commits on github
+13) Verified commits on github
 
 15) Steps to get a certificate :
     1) Create a fork of the TeamQuark Open Source Workshop repo
